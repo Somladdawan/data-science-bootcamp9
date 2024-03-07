@@ -1,7 +1,7 @@
 # LADDAWAN POONPIPAT
 
 I'm learning  data science bootcamp.
-There are 10 sprint in the program.
+There are 10 sprint in the program (2023).
 
 ## First part of the program
 - Intro to data science
