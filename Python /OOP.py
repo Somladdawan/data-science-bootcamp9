@@ -17,6 +17,7 @@ class DataAnalyst:
    def skill (self):
       print(f"I am proficient in using {self.method_01} and {self.method_02} for data analysis and manipulation")
 
+#create an instance from DataAnalyst Class
 per01 = DataAnalyst("Kanittha", 30, "Bussiness", 30000, "R", "Python")
 per02 = DataAnalyst("Phatcharaporn", 24, "Economic", 32000, "Python", "SQL")
 per03 = DataAnalyst("kannika", 27, "Bussiness", 35000, "spreadsheet", "Excel")
