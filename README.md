@@ -16,7 +16,7 @@ There are 10 sprint in the program (2023).
 - Essential Statistics
 - Machune Learning for Data Analyst
 - Machine Learning
-- Essrntial Python for Data Analyst
+- Essential Python for Data Analyst
 - Dashboard with looker studio
 
   Contact: laddawanpoonpipat@gmail.com
