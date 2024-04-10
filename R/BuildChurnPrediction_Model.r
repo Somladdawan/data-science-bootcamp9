@@ -13,7 +13,7 @@ train_test_split <- function(data){
   test_df <- data[-train_id, ]
   return(list ( train_df, test_df))
 }
-split_churn <- train_test_split(churn_df)
+prepare_df <- train_test_split(churn_df)
 
 #2 train 
 model <- train(churn ~ totaldaycharge+totalnightcharge,
