@@ -24,3 +24,10 @@ class ATM:
     def random_otp(self):
       otp = random.randint(0,9999)
       print(f"Your OTP: {otp}") 
+    
+    
+#create an instance from ATM Class
+acc01 = ATM("Kanittha", "Kbank", 100000)
+acc02 = ATM("Phatcharaporn", "SCB", 250000)
+acc03 = ATM("kannika", "Kbank", 58000)
+
