@@ -1,5 +1,5 @@
 # LADDAWAN POONPIPAT
-I maintain a strong interest in learning data science and leverage my combined business and data expertise to enhance team effectiveness and organizational revenue.
+I believe that consolidating all reports into a single, unified format would be highly advantageous. This would not only reduce time spent on report generation but also ensure the reports effectively support the needs of all teams. This is a key reason why I'm interested in learning data analysis – to streamline these processes and improve overall efficiency.
 
 ## Certificate
 Data Science bootcamp - DataRoockie School (2023)
@@ -15,7 +15,7 @@ Introduction of Data Studio- Google Analytics Academy (2023)
 - Data Visualion
 - Essential Statistics
 - Machine Learning 
-- Dashboard with looker studio
+- Dashboard with Looker studio and Tableau
   
 
   Contact: laddawanpoonpipat@gmail.com
