@@ -31,3 +31,9 @@ acc01 = ATM("Kanittha", "Kbank", 100000)
 acc02 = ATM("Phatcharaporn", "SCB", 250000)
 acc03 = ATM("kannika", "Kbank", 58000)
 
+acc01.name_account
+acc01.bank_name
+acc01.initial 
+acc01.deposit(1000)
+acc01.withdraw(500)
+acc01.random_otp()
